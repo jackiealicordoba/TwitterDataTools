@@ -23,7 +23,12 @@ of tweets collected or the database and collection names, make the changes I
 specify in comments of the script. By default, it only collects English tweets,
 but you can change that as well by removing an if statement.
 
+## tweet_cleaner.py
+Coming soon! This script is used to preprocess, clean, and tokenize tweets.
+I need to modify the original script to be general-purpose.
+
 # Libraries Used
+The following tools were used at least once in the scripts above:
 * [PyMongo](https://github.com/mongodb/mongo-python-driver) - A python driver for MongoDB
 * [tweepy](https://github.com/tweepy/tweepy) - A python wrapper for the Twitter API
 * [pandas](https://github.com/pandas-dev/pandas) - A data analysis library for Python
